@@ -1,0 +1,113 @@
+
+/* Resetting general styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Applying general styling */
+body {
+    font-family: "Montserrat", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+/* Styling the main content */
+.container {
+    margin-top: 20px;
+}
+
+h1,
+h2 {
+    margin-top: 0;
+    color: #000;
+    font-weight: bold;
+}
+
+/* Styling the footer */
+footer {
+    background-color: #34495e;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+
+/* Styling for the header and navigation menu */
+nav.navbar {
+    background-color: #34495e;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul,
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li,
+footer li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a,
+footer a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Added styles for services section */
+.services {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.services h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Roboto", Arial, sans-serif;
+    color: #000;
+}
+
+.price-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.service-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+
+.service-name {
+    flex-grow: 1;
+    font-weight: bold;
+}
+
+.service-price {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.shop-images {
+    margin-top: 40px;
+}
+
+.shop-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
