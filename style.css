@@ -33,6 +33,16 @@ h2 {
     padding: 10px;
 }
 
+/* Styling the collapsed navbar menu */
+.navbar-toggler {
+    border-color: #ffffff;
+}
+
+.navbar-toggler-icon {
+    background-color: #ffffff;
+}
+
+
 /* Styling the footer */
 footer {
     background-color: #000000;
@@ -106,9 +116,20 @@ footer {
     height: 200px;
     object-fit: cover;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 /* Added styles for 'Services' section on services page */
+.services {
+    margin-top: 20px;
+}
+
+.services h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #000;
+}
+
 .service-item {
     display: flex;
     justify-content: space-between;
@@ -119,6 +140,9 @@ footer {
     border-radius: 4px;
 }
 
+.service-item .service-name {
+    font-size: 18px;
+}
 .price-list {
     list-style-type: none;
     padding: 0;
@@ -146,7 +170,7 @@ footer {
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Added styling for contact page */
+/* Added styling for 'Contact' page */
 .contact-info {
     margin-top: 20px;
     text-align: center;
@@ -173,7 +197,7 @@ footer {
     color: #000;
 }
 
-/* Added styling for contact the map section  */
+/* Added styling for contact in map section  */
 .map {
     margin-top: 20px;
     text-align: center;
