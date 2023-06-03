@@ -96,10 +96,14 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 - : Here is a screnshot of me testing for Samsung devices using Chrome Developer Tools [![Testing-website-Kindle-Fire-Edge.png](https://i.postimg.cc/d0NhPrbv/Testing-website-Kindle-Fire-Edge.png)](https://postimg.cc/f3XzYtWg)
 - : Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools [![Testing-website-Samsung-S8-Chrome.png](https://i.postimg.cc/jjSDFZkZ/Testing-website-Samsung-S8-Chrome.png)](https://postimg.cc/rD7ydCTr)
 
-- : Here is a screenshot of my HTML passing the validation review [![HTML-Validator-Pass.png](https://i.postimg.cc/FKwhVptf/HTML-Validator-Pass.png)](https://postimg.cc/McbkWypx)
-- : Here is a screenshot of my CSS passing the validation review [![CSS-Validator-Pass.png](https://i.postimg.cc/ZRPXvxJz/CSS-Validator-Pass.png)](https://postimg.cc/jw5MGNWM)
+- Here is a screenshot of my HTML passing the validation review [![HTML-Validator-Pass.png](https://i.postimg.cc/FKwhVptf/HTML-Validator-Pass.png)](https://postimg.cc/McbkWypx)
 
-- : Here is a screenshot of the Lighthouse report [![Lighthouse-Report.png](https://i.postimg.cc/vBjx9fhX/Lighthouse-Report.png)](https://postimg.cc/r01p2dvt)
+- Here is a screenshot of my CSS passing the validation review [![CSS-Validator-Pass.png](https://i.postimg.cc/ZRPXvxJz/CSS-Validator-Pass.png)](https://postimg.cc/jw5MGNWM)
+
+- Here are screenshots of the Lighthouse reports 
+ - 1. 
+ - 2. [![Lighthouse-Report-Services-Page.png](https://i.postimg.cc/8CL62tRv/Lighthouse-Report-Services-Page.png)](https://postimg.cc/nscr7KwV)
+ - 3. 
 
 # Bug Fixes
 
@@ -115,7 +119,7 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 - Images Used: All images used in this project are sourced directly from the respective photographer and business owner [Steven "Barber" Poole]. Full consent to use these images and contents has been provided for the purpose of this project.
 
 - The Bootstrap components and classes have been used to create a visually appealing and responsive website. I would like to show credit to Bootstrap for providing the framework and resources.
-  - Bootstrap CSS file is sourced from [https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css).
-  - Bootstrap JS file is sourced from [https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js).
+  - Bootstrap CSS file is sourced from : [https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css).
+  - Bootstrap JS file is sourced from : [https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js).
 
 **Thank you for visiting my project!**
