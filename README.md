@@ -68,7 +68,7 @@ In order to accurately represent Steven's brand, I used a simple colour scheme. 
 
 ## Installation
 
-As the website is accessible via GitHub Pages, there is no installation required. Please visit the website at [I WILL UPDATE MY LINK HERE ONCE LIVE ON GITHUB PAGES] to access it.
+As the website is accessible via GitHub Pages, there is no installation required. Please visit the website at [https://croftsdeveloper.github.io/MSP-1---Barber-Website---25.05.2023/](https://croftsdeveloper.github.io/MSP-1---Barber-Website---25.05.2023/).
 
 ## Deployment
 
