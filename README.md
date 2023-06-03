@@ -92,21 +92,23 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 
 - **Screenshots**
 
-- : Here is a screenshot of me testing for iphone models using FireFox Developer Tools (NEED TO INSERT SCREENSHOT)
-- : Here is a screnshot of me testing for larger mobile devices using Chrome Developer Tools (NEED TO INSERT SCREENSHOT)
-- : Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools (NEED TO INSERT SCREENSHOT)
-- : Here is a screenshot of the Lighthouse report (NEED TO INSERT SCREENSHOT)
-- : Here is a screenshot of my HTML passing the validation review (NEED TO INSERT SCREENSHOT)
-- : Here is a screenshot of my CSS passing the validation review (NEED TO INSERT SCREENSHOT)
+- : Here is a screenshot of me testing for iphone models using FireFox Developer Tools [![Testing-website-Iphone-12-and-13-Firefox.png](https://i.postimg.cc/K8FknZ7X/Testing-website-Iphone-12-and-13-Firefox.png)](https://postimg.cc/zVtGNYPp)
+- : Here is a screnshot of me testing for Samsung devices using Chrome Developer Tools [![Testing-website-Kindle-Fire-Edge.png](https://i.postimg.cc/d0NhPrbv/Testing-website-Kindle-Fire-Edge.png)](https://postimg.cc/f3XzYtWg)
+- : Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools [![Testing-website-Samsung-S8-Chrome.png](https://i.postimg.cc/jjSDFZkZ/Testing-website-Samsung-S8-Chrome.png)](https://postimg.cc/rD7ydCTr)
+
+- : Here is a screenshot of my HTML passing the validation review [![HTML-Validator-Pass.png](https://i.postimg.cc/FKwhVptf/HTML-Validator-Pass.png)](https://postimg.cc/McbkWypx)
+- : Here is a screenshot of my CSS passing the validation review [![CSS-Validator-Pass.png](https://i.postimg.cc/ZRPXvxJz/CSS-Validator-Pass.png)](https://postimg.cc/jw5MGNWM)
+
+- : Here is a screenshot of the Lighthouse report [![Lighthouse-Report.png](https://i.postimg.cc/vBjx9fhX/Lighthouse-Report.png)](https://postimg.cc/r01p2dvt)
 
 # Bug Fixes
 
 - **Issue**: Navigation menu not displaying properly on mobile devices.
 
-- **Fix**: Reviewed Bootstrap official documentation to ensure proper display across devices. Updated data attribute to correct syntax to fix the issue, as shown in [YouTube video tutorial](https://tinyurl.com/Navbar-Tutorial).
+  - **Fix**: Reviewed Bootstrap official documentation to ensure proper display across devices. Updated data attribute to correct syntax to fix the issue, as shown in [YouTube video tutorial](https://tinyurl.com/Navbar-Tutorial).
 
 - **Bug**: Images not scaling correctly on different devices.
-- **Fix**: Implement responsive image classes provided by Bootstrap, such as `img-fluid`, to ensure that images scale properly based on the device's screen size.
+  - **Fix**: Implement responsive image classes provided by Bootstrap, such as `img-fluid`, to ensure that images scale properly based on the device's screen size.
 
 ## Credits
 
