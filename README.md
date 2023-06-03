@@ -100,10 +100,10 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 
 - Here is a screenshot of my CSS passing the validation review [![CSS-Validator-Pass.png](https://i.postimg.cc/ZRPXvxJz/CSS-Validator-Pass.png)](https://postimg.cc/jw5MGNWM)
 
-- Here are screenshots of the Lighthouse reports 
- - 1. 
- - 2. [![Lighthouse-Report-Services-Page.png](https://i.postimg.cc/8CL62tRv/Lighthouse-Report-Services-Page.png)](https://postimg.cc/nscr7KwV)
- - 3. 
+- Here are screenshots of the Lighthouse reports for each page :
+  1. [![Lighthouse-Report-Homepage.png](https://i.postimg.cc/XYdqqXrS/Lighthouse-Report-Homepage.png)](https://postimg.cc/fVWDgz7B)
+  2. [![Lighthouse-Report-Services-Page.png](https://i.postimg.cc/8CL62tRv/Lighthouse-Report-Services-Page.png)](https://postimg.cc/nscr7KwV)
+  3. 
 
 # Bug Fixes
 
