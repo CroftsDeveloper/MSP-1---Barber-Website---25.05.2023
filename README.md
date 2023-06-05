@@ -127,7 +127,7 @@ Here is a screenshot of me testing for iphone models using FireFox Developer Too
 
 Here is a screnshot of me testing for Samsung devices using Chrome Developer Tools : [![Testing-website-Samsung-S8-Chrome.png](https://i.postimg.cc/MZbhvy31/Testing-website-Samsung-S8-Chrome.png)](https://postimg.cc/pyr0SnHd)
 
-Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools : [![Testing-website-Kindle-Fire-Edge.png](https://i.postimg.cc/BQ77KNTP/Testing-website-Kindle-Fire-Edge.png)](https://postimg.cc/6yRhsr1B)
+Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools : [![Testing-website-Kindle-Fire-Edge.png](https://i.postimg.cc/BQ77KNTP/Testing-website-Kindle-Fire-Edge.png)](https://postimg.cc/6yRhsr1B) 
 
 Here is a screenshot of my HTML passing the validation review : [![HTML-Validator-Pass.png](https://i.postimg.cc/7PWS1RR4/HTML-Validator-Pass.png)](https://postimg.cc/9zy4CLVg)
 
