@@ -122,14 +122,14 @@ Here are screenshots of the Lighthouse reports for each page :
 2. [![Lighthouse-Report-Services-Page.png](https://i.postimg.cc/8CL62tRv/Lighthouse-Report-Services-Page.png)](https://postimg.cc/nscr7KwV)
 3. [![Lighthouse-Report-Contact-Page.png](https://i.postimg.cc/2y0c4z3C/Lighthouse-Report-Contact-Page.png)](https://postimg.cc/D4bPh3qN)
 
-Here is a screenshot of me testing for iphone models using FireFox Developer Tools : [![Testing-website-Iphone-12-and-13-Firefox.png](https://i.postimg.cc/Dw9CQpf4/Testing-website-Iphone-12-and-13-Firefox.png)](https://postimg.cc/MnYbqDQz)
+Here is a screenshot of me testing for iphone models using FireFox Developer Tools : [![Testing-website-Iphone-12-and-13-Firefox.png](https://i.postimg.cc/xCg3STgN/Testing-website-Iphone-12-and-13-Firefox.png)](https://postimg.cc/8JJ6RG2T)
 
-Here is a screnshot of me testing for Samsung devices using Chrome Developer Tools : [![Testing-website-Samsung-S8-Chrome.png](https://i.postimg.cc/BZmM7nQ0/Testing-website-Samsung-S8-Chrome.png)](https://postimg.cc/mhFYtRHX)
+Here is a screnshot of me testing for Samsung devices using Chrome Developer Tools : [![Testing-website-Samsung-S8-Chrome.png](https://i.postimg.cc/MZbhvy31/Testing-website-Samsung-S8-Chrome.png)](https://postimg.cc/pyr0SnHd)
 
-Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools : [![Testing-website-Kindle-Fire-Edge.png](https://i.postimg.cc/MTDdSW71/Testing-website-Kindle-Fire-Edge.png)](https://postimg.cc/vg4W7wSm)
+Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools : [![Testing-website-Kindle-Fire-Edge.png](https://i.postimg.cc/BQ77KNTP/Testing-website-Kindle-Fire-Edge.png)](https://postimg.cc/6yRhsr1B)
 
-Here is a screenshot of my HTML passing the validation review : [![HTML-Validator-Pass.png](https://i.postimg.cc/m2bhkTQt/HTML-Validator-Pass.png)](https://postimg.cc/DmM7YkpT)
+Here is a screenshot of my HTML passing the validation review : [![HTML-Validator-Pass.png](https://i.postimg.cc/7PWS1RR4/HTML-Validator-Pass.png)](https://postimg.cc/9zy4CLVg)
 
-Here is a screenshot of my CSS passing the validation review : [![CSS-Validator-Pass.png](https://i.postimg.cc/Bnb65N73/CSS-Validator-Pass.png)](https://postimg.cc/VJymm9cZ)
+Here is a screenshot of my CSS passing the validation review : [![CSS-Validator-Pass.png](https://i.postimg.cc/rpM4F2D1/CSS-Validator-Pass.png)](https://postimg.cc/sMHxw89x)
 
 **Thank you for visiting my project!**
