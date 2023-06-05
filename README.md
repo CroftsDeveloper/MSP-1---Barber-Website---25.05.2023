@@ -62,9 +62,9 @@ In order to accurately represent Steven's brand, I used a simple colour scheme. 
 
 ### User Stories
 
-1. As a visitor, I want to locate information about the services that are being offered. This can be evidenced by viewing the 'Services' page.
-2. As a user, I want the website to be responsive and usable on a variety of devices and screen sizes. This can be evidenced by viewing the screenshots further along in this document.
-3. As a visitor, I want to see photos of the environment to see if I would feel comfortable visiting the shop. This can be evidenced by viewing the 'Services' page.
+1. As a visitor, I want to locate information about the services that are being offered. This feature has been provided and can be evidenced by viewing the 'Services' page.
+2. As a user, I want the website to be responsive and usable on a variety of devices and screen sizes. This feature has been provided be evidenced by viewing the screenshots further along in this document, or by using Developer Tools.
+3. As a visitor, I want to see photos of the environment to see if I would feel comfortable visiting the shop. I also want to be able to locate the shop. These features have been provided and can be evidenced by viewing the 'Services' and 'Contact' pages.
 
 ## Installation
 
@@ -79,7 +79,7 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 3. Open the project in a code editor.
 4. Customize the content and design to fit your needs.
 5. Commit and push the changes to your GitHub repository.
-6. Enable GitHub Pages in the repository settings.
+6. Enable GitHub Pages in the repository settings
 7. Your website will be live at your unique link.
 
 ### Testing
@@ -90,28 +90,13 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 4. I checked that all of the images appeared properly.
 5. I assessed the website's content overall readability. I checked for grammar and spelling errors.
 
-- **Screenshots**
-
-- : Here is a screenshot of me testing for iphone models using FireFox Developer Tools [![Testing-website-Iphone-12-and-13-Firefox.png](https://i.postimg.cc/K8FknZ7X/Testing-website-Iphone-12-and-13-Firefox.png)](https://postimg.cc/zVtGNYPp)
-- : Here is a screnshot of me testing for Samsung devices using Chrome Developer Tools [![Testing-website-Kindle-Fire-Edge.png](https://i.postimg.cc/d0NhPrbv/Testing-website-Kindle-Fire-Edge.png)](https://postimg.cc/f3XzYtWg)
-- : Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools [![Testing-website-Samsung-S8-Chrome.png](https://i.postimg.cc/jjSDFZkZ/Testing-website-Samsung-S8-Chrome.png)](https://postimg.cc/rD7ydCTr)
-
-- Here is a screenshot of my HTML passing the validation review [![HTML-Validator-Pass.png](https://i.postimg.cc/FKwhVptf/HTML-Validator-Pass.png)](https://postimg.cc/McbkWypx)
-
-- Here is a screenshot of my CSS passing the validation review [![CSS-Validator-Pass.png](https://i.postimg.cc/ZRPXvxJz/CSS-Validator-Pass.png)](https://postimg.cc/jw5MGNWM)
-
-- Here are screenshots of the Lighthouse reports for each page :
-  1. [![Lighthouse-Report-Homepage.png](https://i.postimg.cc/XYdqqXrS/Lighthouse-Report-Homepage.png)](https://postimg.cc/fVWDgz7B)
-  2. [![Lighthouse-Report-Services-Page.png](https://i.postimg.cc/8CL62tRv/Lighthouse-Report-Services-Page.png)](https://postimg.cc/nscr7KwV)
-  3. 
-
 # Bug Fixes
 
-- **Issue**: Navigation menu not displaying properly on mobile devices.
+- **Issue**: Navigation menu not displaying properly on mobile devices. This was causing the navbar 'collapse' to dissapear on most devices.
 
-  - **Fix**: Reviewed Bootstrap official documentation to ensure proper display across devices. Updated data attribute to correct syntax to fix the issue, as shown in [YouTube video tutorial](https://tinyurl.com/Navbar-Tutorial).
+  - **Fix**: Reviewed Bootstrap official documentation to ensure proper display across devices. Updated data attribute to correct syntax to fix the issue, as shown in [Navbar Tutorial](https://tinyurl.com/Navbar-Tutorial).
 
-- **Bug**: Images not scaling correctly on different devices.
+- **Bug**: Homepage images not scaling correctly on different devices. These images would not scale down when viewing on mobile devices.
   - **Fix**: Implement responsive image classes provided by Bootstrap, such as `img-fluid`, to ensure that images scale properly based on the device's screen size.
 
 ## Credits
@@ -119,7 +104,32 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 - Images Used: All images used in this project are sourced directly from the respective photographer and business owner [Steven "Barber" Poole]. Full consent to use these images and contents has been provided for the purpose of this project.
 
 - The Bootstrap components and classes have been used to create a visually appealing and responsive website. I would like to show credit to Bootstrap for providing the framework and resources.
+
   - Bootstrap CSS file is sourced from : [https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css).
   - Bootstrap JS file is sourced from : [https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js).
+
+- **Screenshots**
+
+Here are screenshots of my Wireframe's :
+
+1. Homepage [![Wireframe-Homepage.jpg](https://i.postimg.cc/XqzqwTNz/Wireframe-Homepage.jpg)](https://postimg.cc/Pv1dHVwW)
+2. Services Page [![Wireframe-Services-Page.jpg](https://i.postimg.cc/WzCpDgXR/Wireframe-Services-Page.jpg)](https://postimg.cc/CnCpXZ3J)
+3. Contact Page [![Wireframe-Contact-Page.jpg](https://i.postimg.cc/PJghfh5T/Wireframe-Contact-Page.jpg)](https://postimg.cc/K3DCQ6TH)
+
+Here are screenshots of the Lighthouse reports for each page :
+
+1. [![Lighthouse-Report-Homepage.png](https://i.postimg.cc/XYdqqXrS/Lighthouse-Report-Homepage.png)](https://postimg.cc/fVWDgz7B)
+2. [![Lighthouse-Report-Services-Page.png](https://i.postimg.cc/8CL62tRv/Lighthouse-Report-Services-Page.png)](https://postimg.cc/nscr7KwV)
+3. [![Lighthouse-Report-Contact-Page.png](https://i.postimg.cc/2y0c4z3C/Lighthouse-Report-Contact-Page.png)](https://postimg.cc/D4bPh3qN)
+
+Here is a screenshot of me testing for iphone models using FireFox Developer Tools : [![Testing-website-Iphone-12-and-13-Firefox.png](https://i.postimg.cc/Dw9CQpf4/Testing-website-Iphone-12-and-13-Firefox.png)](https://postimg.cc/MnYbqDQz)
+
+Here is a screnshot of me testing for Samsung devices using Chrome Developer Tools : [![Testing-website-Samsung-S8-Chrome.png](https://i.postimg.cc/BZmM7nQ0/Testing-website-Samsung-S8-Chrome.png)](https://postimg.cc/mhFYtRHX)
+
+Here is a screenshot of me testing for Kindle devices using Microsoft Edge Developer Tools : [![Testing-website-Kindle-Fire-Edge.png](https://i.postimg.cc/MTDdSW71/Testing-website-Kindle-Fire-Edge.png)](https://postimg.cc/vg4W7wSm)
+
+Here is a screenshot of my HTML passing the validation review : [![HTML-Validator-Pass.png](https://i.postimg.cc/m2bhkTQt/HTML-Validator-Pass.png)](https://postimg.cc/DmM7YkpT)
+
+Here is a screenshot of my CSS passing the validation review : [![CSS-Validator-Pass.png](https://i.postimg.cc/Bnb65N73/CSS-Validator-Pass.png)](https://postimg.cc/VJymm9cZ)
 
 **Thank you for visiting my project!**
