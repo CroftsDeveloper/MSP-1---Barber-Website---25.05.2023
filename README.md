@@ -11,6 +11,7 @@ Welcome to the README documentation for the Steven "Barber" Poole website. This 
 - [Deployment](#deployment)
 - [Testing](#testing)
 - [Credits](#credits)
+- [Screenshots](#Screenshots)
 
 ## Technologies Used
 
@@ -108,7 +109,7 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
   - Bootstrap CSS file is sourced from : [https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css).
   - Bootstrap JS file is sourced from : [https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js).
 
-- **Screenshots**
+## Screenshots
 
 Here are screenshots of my Wireframe's :
 
