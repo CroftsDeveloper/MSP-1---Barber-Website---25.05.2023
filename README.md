@@ -60,7 +60,7 @@ This website's design uses a minimalist colour scheme to complement the barbersh
 
 In order to accurately represent Steven's brand, I used a simple colour scheme. A legible typeface is also used on the website.
 
-### User Stories
+## User Stories
 
 1. As a visitor, I want to locate information about the services that are being offered. This feature has been provided and can be evidenced by viewing the 'Services' page.
 2. As a user, I want the website to be responsive and usable on a variety of devices and screen sizes. This feature has been provided be evidenced by viewing the screenshots further along in this document, or by using Developer Tools.
@@ -82,7 +82,7 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 6. Enable GitHub Pages in the repository settings
 7. Your website will be live at your unique link.
 
-### Testing
+## Testing
 
 1. I spent time to test each link's functionality utilising the navbar.
 2. I tested the website's responsiveness on different devices and screen sizes, including mobile phones, kindles and desktops. This was checked via the developer tools function. Please see screenshots further along in this document.
@@ -90,7 +90,7 @@ The Steven "Barber" Poole website has been deployed using GitHub Pages. To deplo
 4. I checked that all of the images appeared properly.
 5. I assessed the website's content overall readability. I checked for grammar and spelling errors.
 
-# Bug Fixes
+## Bug Fixes
 
 - **Issue**: Navigation menu not displaying properly on mobile devices. This was causing the navbar 'collapse' to dissapear on most devices.
 
